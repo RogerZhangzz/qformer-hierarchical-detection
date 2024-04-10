@@ -1,6 +1,6 @@
 # Quadrangle Transformer (hierarchical) for Object Detection
 
-This repo contains the supported code and configuration files to reproduce object detection results of [Quadrangle Transformer](https://arxiv.org/abs/2303.15105). It is based on [mmdetection](https://github.com/open-mmlab/mmdetection).
+This repo contains the supported code and configuration files to reproduce object detection results of [Quadrangle Transformer](https://arxiv.org/abs/2303.15105) (TPAMI-2024). It is based on [mmdetection](https://github.com/open-mmlab/mmdetection).
 
 ## Results and Models
 
