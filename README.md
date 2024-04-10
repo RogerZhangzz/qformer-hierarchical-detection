@@ -97,3 +97,6 @@ optimizer_config = dict(
 ## Other Links
 
 > **Image Classification**: See [Quadrangle Transformer for Image Classification](https://github.com/ViTAE-Transformer/QFormer).
+
+## Acknowledgments
+The code is heavily borrowed on (Swin-Detection)[https://github.com/SwinTransformer/Swin-Transformer-Object-Detection]
